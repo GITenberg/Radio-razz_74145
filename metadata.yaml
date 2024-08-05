@@ -1,0 +1,35 @@
+_repo: Radio-razz_74145
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woodford, Jack
+    aliases:
+    - Woolfolk, Josiah Pitts
+    - Woolfolk, Jack
+    birthdate: 1894
+    deathdate: 1971
+    gutenberg_agent_id: '57365'
+    url: http://www.gutenberg.org/2009/agents/57365
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Woodford
+description: ''
+gutenberg_issued: '2024-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74145'
+language: en
+pgterms:marc905: 20240724050711woodford
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bThe Frank A. Munsey Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Radio -- Fiction'
+- !lcsh 'Stores, Retail -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Radio razz
+url: http://www.gutenberg.org/ebooks/74145
